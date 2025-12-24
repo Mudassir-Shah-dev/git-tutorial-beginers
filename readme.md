@@ -7,3 +7,4 @@ Routine is:
 - code daily (at least 40 min)
 - Sleep well
 - Repeat
+- Enough!
