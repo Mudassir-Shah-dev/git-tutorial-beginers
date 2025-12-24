@@ -1,5 +1,5 @@
 # The best git repo
-read me
+Read me
 Routine is:
 - Perform Salah five times
 - Do exercise
